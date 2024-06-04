@@ -28,10 +28,6 @@ body{
     gap: 1em;
 }
 
-h2{
-    align-items: center;
-}
-
 button{
     background-color: black;
     color:white;
